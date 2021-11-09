@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF: VOPHUchinh
-
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV6hd 
+http://14.167.90.41:9981/stream/channelid/1018365991?profile=pass
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/YWHs46S/IMG-20210818-065129.png",VTV2 HD
