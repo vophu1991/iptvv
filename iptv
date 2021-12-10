@@ -209,8 +209,10 @@ https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/5hjkQN5/IMG-20210820-180644.png",Tuyên Quang HD
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/FstYx97/IMG-20210820-180630.png",thái nguyên  HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/FstYx97/IMG-20210820-180630.png",thái nguyên 1 HD
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/61tn60C/IMG-20211210-195114.png",thái nguyên 2 HD
+https://8387e1fb5a.vws.vegacdn.vn/live/thainguyen2/chunklist_1.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/GRTMk1P/IMG-20210820-180607.png",Sơn La
 http://118.107.85.5:1935/live/smil:STV.smil/chunklist_w1744292611_b1384000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9g4JDk8/IMG-20210820-180555.png",Lạng Sơn HD
