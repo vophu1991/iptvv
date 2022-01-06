@@ -363,3 +363,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 http://bestsave.ltd:2052/live/55667788/88776655/126988.ts
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/dPQOeEQ.png",PHIM HBO MAX
 http://bestsave.ltd:2052/live/55667788/88776655/125270.ts
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/e1Jfa3D.png",KÊNH PHIM 1
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/0Wm18Sa.png",KÊNH PHIM 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
