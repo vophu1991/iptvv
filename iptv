@@ -359,6 +359,10 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 https://log5uwsgbvliv.vcdn.cloud/live/box-channel/chunklist_1.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/2utYToN.png",BOX HITS
 https://log5uwsgbvliv.vcdn.cloud/live/box-hits/chunklist_1.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/QpWe6KO.png",WMAN
+https://log5uwsgbvliv.vcdn.cloud/live/woman/chunklist_1.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/nre1D8i.jpg",MAN
+https://log5uwsgbvliv.vcdn.cloud/live/man-tv/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/0XWmh5f/IMG-20210821-142948.png" , Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/HqV4gnJ/IMG-20210821-142957.png", Blue Ant Extreme
