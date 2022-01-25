@@ -356,7 +356,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/rF2s63V/IMG-20210924-171953.png",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/cVlqrt8.png",BOX 
-http://cdnmega.vthanh.xyz/inthebox/mpegts
+https://log5uwsgbvliv.vcdn.cloud/live/box-channel/chunklist_1.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/2utYToN.png",BOX HITS
 http://cdnmega.vthanh.xyz/boxhits/mpegts
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/0XWmh5f/IMG-20210821-142948.png" , Blue Ant Entertainment
