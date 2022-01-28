@@ -179,7 +179,7 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/bgKcRbX/IMG-20210820-055846.jpg",Bình Phước 2 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/W03cFWh/IMG-20211102-181241.png",Bình Phước 3
-https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
+https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qMWVxR0/IMG-20210820-060117.jpg",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/GP2cjxX/IMG-20210820-060123.jpg",Đà Nẵng 2
