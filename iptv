@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF: VOPHUchinh
 
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.imgur.com/Ut8Nnun.jpg",NHẠC XUÂN
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ut8Nnun.jpg",NHẠC XUÂN
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
