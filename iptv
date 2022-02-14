@@ -351,6 +351,8 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/yQVHJWm/IMG-20210920-191508.png",BOX MOVIE
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1623926686c_BOX%20W.png",BOX 
+https://log5uwsgbvliv.vcdn.cloud/live/box-channel/chunklist_1.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/J3Kwbn9/IMG-20210920-192427.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/q9JZG1k/IMG-20210921-054704.png",STAR Movies HD 
@@ -359,6 +361,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/eFXqCC3.png",WOMAN
 https://log5uwsgbvliv.vcdn.cloud/live/woman/playlist.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/m6UqLaf.jpg",MAN
+https://log5uwsgbvliv.vcdn.cloud/live/man-tv/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/0XWmh5f/IMG-20210821-142948.png" , Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/HqV4gnJ/IMG-20210821-142957.png", Blue Ant Extreme
