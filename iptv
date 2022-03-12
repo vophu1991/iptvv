@@ -1,9 +1,5 @@
 #EXTM3U 
 #EXTINF: VOPHUchinh
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/pdZVfgz.png",FHD Brighton - Liverpool (Mới)
-https://livestream-2.socialstreaming.tv/live/622c8926c1cc73001cb2e07d/622c8926c1cc73001cb2e07d.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/pdZVfgz.png",19h30 12/03: Brighton - Liverpool (Mới)
-https://tuongbongda.000webhostapp.com/play90p.php?id=622a67b074dd7b31c399b399&.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
