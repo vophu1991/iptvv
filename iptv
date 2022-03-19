@@ -280,7 +280,7 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/JsBPfCS/IMG-20210820-073827.png",SCTV HD phim thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=UxTlGoU7lrNVDG_uK06LTQ&expires=2556118740
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/5WLGQrD/IMG-20210818-175848.png", SCTV1 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/s1/index.m3u8?md5=UxTlGoU7lrNVDG_uK06LTQ&expires=2556118740
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8
 #EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/0s8Cpy8/IMG-20210818-205342.png",SCTV2 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd2/index.m3u8?md5=UxTlGoU7lrNVDG_uK06LTQ&expires=2556118740
 #EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/M2m0WTf/IMG-20210818-205359.png",SCTV3 thử nghiệm
