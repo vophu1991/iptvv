@@ -312,7 +312,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd2/index.m3u8
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/Hpsqhvq/IMG-20210818-205810.png",SCTV16 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd2/index.m3u8
 #EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/0ZFYb4x/IMG-20210818-205836.png",SCTV 17 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8
+https://api.vthanhtivii.xyz/v1/getlink/sctvonline/sctv17?t=a.m3u8
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/wStZdGb/IMG-20210818-205855.png",SCTV 18  thử nghiêm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd2/index.m3u8
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/JstF46H/IMG-20210818-205912.png",SCTV19 thử nghiệm
