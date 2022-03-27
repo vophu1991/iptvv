@@ -275,7 +275,7 @@ https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/gV6Qr1m/IMG-20210821-111321.png",Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/vqgNPzb/IMG-20210821-111331.png",Thanh Hóa
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/vqgNPzb/IMG-20210821-111331.png",Thanh Hóa
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="📺SCTV" tvg-logo="https://i.ibb.co/JsBPfCS/IMG-20210820-073827.png",SCTV HD phim thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
