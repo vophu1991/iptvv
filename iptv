@@ -34,6 +34,8 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 http://202.43.109.145:1935/thdt2/thdt2/playlist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/gqWJ7p5.png",Hậu Giang
 https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FIQTeX6.png",Tiền Giang HD
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/Q136NgB.png",HTV1 HD
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/w9FUnx9.png",HTV2 HD
@@ -46,22 +48,16 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/5MO0oD2.png",HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.ibb.co/LnF642f/IMG-20210821-142746.png",KÊNH THIẾT NHI Cartoon Network 
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.ibb.co/FgRvnqf/IMG-20210821-142736.png",KÊNH THIẾT NHI Boomerang
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.ibb.co/KGsLGFN/IMG-20210821-155117.png",KÊNH THIẾT NHI HAPPY KIDS HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="📺HTV" tvg-logo="https://i.imgur.com/iem4BIT.png",KÊNH THIẾT NHI CBeebies 
-https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/pAX2p00.png",HTV 4 HD
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/QXiOaii.png",HTV7 HD HD
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/5MO0oD2.png",HTV9 HD
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/Ie8wxOD.png",HTV Thể Thao  HD
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/yb7x6fg.png",KÊNH THIẾT NHI Cartoon Network 
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/WrOWxGy.png",KÊNH THIẾT NHI Boomerang
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="📺HTV" tvg-logo="https://i.imgur.com/ylcJ0LW.png",KÊNH THIẾT NHI HAPPY KIDS HD
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="📺HTV" tvg-logo="https://i.imgur.com/AXxDDSe.png",KÊNH THIẾT NHI CBeebies 
+https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/4VSK8Lx/IMG-20210818-124310.png",HTVC Ca Nhạc HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/9h132YT/Th-4-18-08-2021-12-44-28.png",HTVC Du Lịch & Cuộc Sống HD
@@ -134,8 +130,6 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Sfm24sW/IMG-20211003-054745.png",YOU TV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8c7gD3y/IMG-20210819-103806.png",Tiền Giang HD
-https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/JjmKPc1/IMG-20210819-094010.png",Bến Tre HD
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/FsNvT8d/IMG-20210819-094435.png",trà vinh HD
