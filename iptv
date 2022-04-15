@@ -130,8 +130,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV" tvg-logo="https://i.imgur.com/PCqJNxH.png",SCTV22 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/twDVigf.png",MTV NHẠC VIỆT
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺VTC" tvg-logo="https://i.ibb.co/k6cSC4p/IMG-20210818-155918.png",VTC1  HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📺VTC" tvg-logo="https://i.ibb.co/JrJws13/IMG-20210818-154417.png",VTC2  HD
@@ -162,6 +160,22 @@ https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📺VTC" tvg-logo="https://i.ibb.co/2MZm5DD/IMG-20210818-152545.png",VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VYcnhv6/IMG-20210819-185656.png",Hà Nội 1 HD
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/H4MHRmm/IMG-20210819-185709.png",Hà Nội 2  HD
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Hq2TwxS/IMG-20210819-185642.png",An Ninh TV HD
+https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/94km7Bx/IMG-20210819-185802.png",Quốc Hội Việt Nam HD
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/8XN8qmF/IMG-20210819-185749.png",Quốc Phòng Việt Nam HD
+https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/z4csc4H/IMG-20210819-185737.png",Nhân Dân TV HD
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/h20sxb9/IMG-20210820-055547.png",VNews - Thông Tấn Xã Việt Nam HD
+https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Bj5TGg2/IMG-20210819-185725.png",VOV TV
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fqd8h7F/IMG-20210818-165443.png",Bình Dương 1 HD
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/879YWST/IMG-20210818-165455.png",Bình Dương 2 HD
@@ -210,22 +224,6 @@ https://livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wQPYCXm/IMG-20210819-191934.png",BẠC LIÊU HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VYcnhv6/IMG-20210819-185656.png",Hà Nội 1 HD
-https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/H4MHRmm/IMG-20210819-185709.png",Hà Nội 2  HD
-https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Hq2TwxS/IMG-20210819-185642.png",An Ninh TV HD
-https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/94km7Bx/IMG-20210819-185802.png",Quốc Hội Việt Nam HD
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/8XN8qmF/IMG-20210819-185749.png",Quốc Phòng Việt Nam HD
-https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/z4csc4H/IMG-20210819-185737.png",Nhân Dân TV HD
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/h20sxb9/IMG-20210820-055547.png",VNews - Thông Tấn Xã Việt Nam HD
-https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Bj5TGg2/IMG-20210819-185725.png",VOV TV
-https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/W03cFWh/IMG-20211102-181241.png",Bình Phước 3
 https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qMWVxR0/IMG-20210820-060117.jpg",Đà Nẵng 1
