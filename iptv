@@ -68,21 +68,21 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="📺HTV" tvg-logo="https://i.imgur.com/AXxDDSe.png",KÊNH THIẾT NHI CBeebies 
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/4VSK8Lx/IMG-20210818-124310.png",HTVC Ca Nhạc HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/h1T3j5D.png",HTVC Ca Nhạc HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/9h132YT/Th-4-18-08-2021-12-44-28.png",HTVC Du Lịch & Cuộc Sống HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/iHaB7yV.png",HTVC Du Lịch & Cuộc Sống HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/tzStXHL/Th-4-18-08-2021-12-50-57.png",HTVC Gia Đình HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/xrDCsXb.png",HTVC Gia Đình HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/T0DftZ8/IMG-20210818-130151.png",HTVC Phim
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/OEd7eYU.png",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/74GFC79/IMG-20210818-124627.png",HTVC Phụ Nữ HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/UelwMmX.png",HTVC Phụ Nữ HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/vDLvhpZ/IMG-20210818-124825.png",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/fgi1Awt.png",HTVC Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/Zdr7XHT/IMG-20210818-124837.png",HTVC Thuần Việt HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/6700RcG.png",HTVC Thuần Việt HD
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.ibb.co/XbngLYq/IMG-20210818-125336.png",HTVC PLUS HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC" tvg-logo="https://i.imgur.com/X7ww6TJ.png",HTVC PLUS HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="📺SCTV" tvg-logo="https://i.imgur.com/1Nr9AyE.png",SCTV HD phim thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
