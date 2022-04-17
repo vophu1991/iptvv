@@ -156,35 +156,35 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/PCqJNxH.png",SCTV22 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/k6cSC4p/IMG-20210818-155918.png",VTC1  HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/FKxNfHu.png",VTC1  HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/JrJws13/IMG-20210818-154417.png",VTC2  HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/MmlgEQJ.png",VTC2  HD
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/V3KFkN4/IMG-20210818-155933.png",VTC3  HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/r3GZTA9.png",VTC3  HD
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/gr0pXTq/IMG-20210818-155952.png",VTC4 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/4H7jDa4.png",VTC4 HD
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/8xWCzGy/IMG-20210818-160013.png",VTC5 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/dF5yXRn.png",VTC5 HD
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/LrN7HBk/IMG-20210818-160031.png",VTC6 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/Ds95GAX.png",VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/Z81y4ST/IMG-20210818-160053.png",VTC7 - TodayTV
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/SzkBA2e.png",VTC7 - TodayTV
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/VYHc0QV/IMG-20210818-160106.png",VTC8  HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/Y1aHtGy.png",VTC8  HD
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/Scv1Qk6/IMG-20210818-160119.png",VTC9  HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/cHPfm9F.png",VTC9  HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/C6SQMym/IMG-20210818-160134.png",VTC10 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/L4xdDCf.png",VTC10 HD
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/ws92rQj/IMG-20210818-160150.png",VTC11 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/YCgLp9H.png",VTC11 HD
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/sb4cs3T/IMG-20210818-160202.png",VTC12 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/CkjHlvK.png",VTC12 HD
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/NFfrgbJ/IMG-20210818-160220.png",VTC13  HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/abeukul.png",VTC13  HD
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/61Z4cbh/IMG-20210818-160235.png",VTC14 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/46w4Bid.png",VTC14 HD
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.ibb.co/2MZm5DD/IMG-20210818-152545.png",VTC16 HD
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/09xTmnn.png",VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/3qDDRgw.png",Hà Nội 1 HD
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
