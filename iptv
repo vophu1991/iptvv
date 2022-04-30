@@ -187,6 +187,12 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NTQwNGRmNWItYTdlNy0zZGM1LThkNTEtZjM0YzIzOTE0NDNk
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
+#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
 #EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/FKxNfHu.png",VTC1  HD
