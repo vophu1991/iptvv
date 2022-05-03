@@ -384,8 +384,7 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/vqgNPzb/IMG-20210821-111331.png",Thanh Hóa
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/6rDWXk2/IMG-20210821-142645.png",DAVINCY
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/SNFxrPG/IMG-20210821-142658.png",Warner TV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/qJ3ffcf/IMG-20210821-150349.png",NATGEOWILD-HD
@@ -416,8 +415,38 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/7Oe18uR.jpg",CinemaWorld HD 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/0XWmh5f/IMG-20210821-142948.png" , Blue Ant Entertainment
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/HqV4gnJ/IMG-20210821-142957.png", Blue Ant Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHub🅃🅅
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/92SxHZK/cc-Box-Music.jpg",BOX Music
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/v9g46fkke3h2cpo/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/zSPz851/cc-Boxchannel.jpg",BOX Channel
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/Xzzztyy/cc-Box-Hits.jpg",BOX Hits
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/MSNQqM6/cc-Box-Movie1.png",BOX Movie¹
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/u607615uzi4ynmy/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/wwSQdVN/cc-Hollywood-Classic.jpg",Hollywood Classics
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/bd1dqz0nirvbyrk/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/4Fb1FQ7/ccManTV.png",Man
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/DVpZVW0/ccWoman.jpg",Woman
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/4kjl38qcn0pq3m2/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/93FsMQt/ccDrFit.png",Dr. Fit
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/klul1refps05pfo/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/fC11W0Z/cc-Happy-Kids.jpg",Happy Kids
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/gwevb3s2bg9l8tf/																						 ㅤ
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/2dMdqzz/cc-Planet-Earth.jpg",Planet Earth
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://dl.dropboxusercontent.com/s/m2fp0v246769390/
 
