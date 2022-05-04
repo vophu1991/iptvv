@@ -94,21 +94,21 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="📺HTV" tvg-logo="https://i.imgur.com/AXxDDSe.png",KÊNH THIẾT NHI CBeebies 
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/h1T3j5D.png",HTVC Ca Nhạc HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcmusic_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/iHaB7yV.png",HTVC Du Lịch & Cuộc Sống HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/xrDCsXb.png",HTVC Gia Đình HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/OEd7eYU.png",HTVC Phim
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/sdb/htvcmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/UelwMmX.png",HTVC Phụ Nữ HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcphunu_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/fgi1Awt.png",HTVC Thuần Việt
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/6700RcG.png",HTVC Thuần Việt HD
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/X7ww6TJ.png",HTVC PLUS HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/playlist.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/1Nr9AyE.png",SCTV HD phim thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/vYVmZ0j.png", SCTV1 thử nghiệm
