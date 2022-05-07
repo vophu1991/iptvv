@@ -2,19 +2,19 @@
 #EXTINF: list tv ok
 
 
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = "🇻🇳 MYK + 🇻🇳" tvg-logo = "https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" , K + Sports 1 HD🇻🇳
+#EXTINF:0 group-title="📺 K+ 📺" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" , K + Sports 1 HD🇻🇳
 
 http://gg.gg/Ksport01
 
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = "🇻🇳 MYK + 🇻🇳" tvg-logo = "https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" , K + Sports 2 HD🇻🇳
+#EXTINF:0 group-title="📺 K+ 📺" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" , K + Sports 2 HD🇻🇳
 
 http://gg.gg/Ksport02
 
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = "🇻🇳 MYK + 🇻🇳" tvg-logo = "https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" , K + Cine HD🇻🇳
+#EXTINF:0 group-title="📺 K+ 📺" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" , K + Cine HD🇻🇳
 
 http://gg.gg/Kcine03
 
-#EXTINF: -1 tvg-id = "ksport1hd" group-title = "🇻🇳 MYK + 🇻🇳" tvg-logo = "https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" , K + Life HD🇻🇳
+#EXTINF:0 group-title="📺 K+ 📺" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" , K + Life HD🇻🇳
 
 http://gg.gg/Klife04
 
