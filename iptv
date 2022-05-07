@@ -2,29 +2,6 @@
 #EXTINF: list tv ok
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="📺K+ VIP📺" tvg-logo="https://i.imgur.com/TNBbqqk.png", K+CINE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="klifehd" group-title="📺K+ VIP📺" tvg-logo="https://i.imgur.com/43U3ocH.png", K+LIFE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="📺K+ VIP📺" tvg-logo="https://i.imgur.com/xt4jtyu.png", K+SPORT1 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="📺K+ VIP📺" tvg-logo="https://i.imgur.com/heeNXEw.png", K+SPORT2 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV1 HD
@@ -155,44 +132,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/PCqJNxH.png",SCTV22 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
-
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/WO1PaRJ.png",ON Sports HD", ON Sports HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
-
-
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/lz6LrKR.png", ON Sports+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv311&offset=1&nodelay=1
-
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/pyRRzgD.png",ON Football HD", ON Football HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
-
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/aVbXAVI.png", ON Sports News
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
-
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/H63xBIu.png", ON Golf
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=YTdlOWQ0ZGUtMTZlZi0zY2FjLWIxNjMtYWUyMmNlNGYxYjAy&c
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
 
 #EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/FKxNfHu.png",VTC1  HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
@@ -436,4 +375,12 @@ https://dl.dropboxusercontent.com/s/klul1refps05pfo/																						 ㅤ		
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/2dMdqzz/cc-Planet-Earth.jpg",Planet Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://dl.dropboxusercontent.com/s/m2fp0v246769390/
+#EXTINF:0 group-title="📺VTVCAP📺" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+
 
