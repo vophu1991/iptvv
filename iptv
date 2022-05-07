@@ -1,15 +1,6 @@
 #EXTM3U 
 #EXTINF: list TV
 
-#EXTINF:-1 tvg-id="🇻🇳 K+ 🇻🇳" group-title="🇻🇳 K+ 🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" , K + Sports 1 HD🇻🇳
-http://tv.trialsonserver.com/KSports1/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳 K+ 🇻🇳" group-title="🇻🇳 K+ 🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" , K + Sports 2 HD🇻🇳
-http://tv.trialsonserver.com/KSports2/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳 K+ 🇻🇳" group-title="🇻🇳 K+ 🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" , K + Cine HD🇻🇳
-http://gg.gg/Kcine03
-#EXTINF:-1 tvg-id="🇻🇳 K+ 🇻🇳" group-title="🇻🇳 K+ 🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" , K + Life HD🇻🇳
-http://gg.gg/Klife04
-
 
 
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV1 HD
