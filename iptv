@@ -8,10 +8,10 @@ http://tv.trialsonserver.com/KSports1/index.m3u8
 http://tv.trialsonserver.com/KSports2/index.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳K+ VIP🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg",K+Cine HD🇻🇳
-http://gg.gg/Kcine03
+http://tv.trialsonserver.com/KCine/mpegts
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳K+ VIP🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg",K+Life HD🇻🇳
-http://gg.gg/Klife04
+http://tv.trialsonserver.com/Klife1/mpegts
 
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
