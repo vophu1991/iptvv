@@ -1,8 +1,7 @@
 #EXTM3U 
 #EXTINF: list TV
 
-#EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV HD
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8
+
 
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -348,33 +347,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/7Oe18uR.jpg",CinemaWorld HD 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/gZZrjWn/BlueStar.gif",NETHub🅃🅅
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/elx2hzpumgk2zgk/																						 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/92SxHZK/cc-Box-Music.jpg",BOX Music
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/v9g46fkke3h2cpo/																						 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/zSPz851/cc-Boxchannel.jpg",BOX Channel
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/																						 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/Xzzztyy/cc-Box-Hits.jpg",BOX Hits
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/28ty97que0ave8x/																						 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/MSNQqM6/cc-Box-Movie1.png",BOX Movie¹
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/u607615uzi4ynmy/																						 ㅤ																				 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/4Fb1FQ7/ccManTV.png",Man
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/																						 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/DVpZVW0/ccWoman.jpg",Woman
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/4kjl38qcn0pq3m2/																						 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/93FsMQt/ccDrFit.png",Dr. Fit
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/klul1refps05pfo/																						 ㅤ																					 ㅤ
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/2dMdqzz/cc-Planet-Earth.jpg",Planet Earth
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://dl.dropboxusercontent.com/s/m2fp0v246769390/
+
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
