@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF: list TV
 
+#EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV HD
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8
 
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
