@@ -1,17 +1,6 @@
 #EXTM3U 
 #EXTINF: list TV
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳K+ VIP🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+Sports 1 HD🇻🇳
-http://103.178.234.181/KSPORT1/mpegts
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳K+ VIP🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg",K+Sports 2 HD🇻🇳
-http://103.178.234.181/KSPORT2/mpegts
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳K+ VIP🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg",K+Cine HD🇻🇳
-http://103.178.234.181/KCINE/mpegts
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🇻🇳K+ VIP🇻🇳" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg",K+Life HD🇻🇳
-http://103.178.234.181/KLIFE/mpegts
 
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
