@@ -348,11 +348,46 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/7Oe18uR.jpg",CinemaWorld HD 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcDavUZOuXeM2LW1bm4aFqOzls62zzI0xfEnGqE-VbjlEjDC9hnWT5pAVb5lKNB-f0.png" group-title="VIP Sports",BT Sport 1
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov1wWgCTP_WEudHZgFWAqQ7pUNquykUYbDJUe4qWEeQHe/m3u8
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeNBPuuqhNR0k0GPK10Fw1UKX1xFzTgqhjbxuKehGW3JFoJQkF_4A87mzTZT2A7gAg.png" group-title="VIP Sports",BT Sport 2
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov1wWgCTP_WEudHZgFWAqQ7qu4w4CXrTmGEexMKP7O25q/m3u8
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBP_VapV6wPBPKOJpGHDBOuj41UITJ5SdC3uXN3clKxGFI49egSfyr9HMm5RlLJMo.png" group-title="VIP Sports",BT Sport 3
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov1wWgCTP_WEudHZgFWAqQ7oo_W0eDW0Zo2pjscWWF9oE/m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWf-fIQNxqqiEy-X9Vd-3KboYmEjNaZx81xZ8YGzW2yP9wcGrWtv_TXWs84ksivUIuQ.png" group-title="VIP Sports",Bein Premium 1
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov-goQuZ7kzMDR44frtWRl5jcGFfppsV1gwRusW44kFTo/m3u8
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/fb8b7984b4bcc545a8f0fde681e5f8fe.png" group-title="VIP Sports",Bein Premium 2
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov-goQuZ7kzMDR44frtWRl5g80qvIfYuu3ATgBy8FrBaW/m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/d36c6cc8684ff8f2a6e2ddc6c8f48a26.png" group-title="VIP Sports",ESPN
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov2D5Pazv9SLF2YX9RaJ3RQbjX8czlLYAfA8Av4vyuCpP/m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez-VKllK7XXqG5OVch5N-l1CXUaghYbBphIITZcNvHKJViwp1zMglYFI9tciGa-QwbA.png" group-title="VIP Sports",RMC Sport 1
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ovyDuCULk831EhyS7z6SrWa3E7uen6U8Ait4g2-9_DboN/m3u8
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWef_JCJpUVvb0X9aDz-x8D7kaLNHy2VoZxfAG46r_hljEqtwTAArfV3IOLQU7e6nVY.png" group-title="VIP Sports",RMC Sport 2
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ovyDuCULk831EhyS7z6SrWa0YM8r3pFH7Om7DOEk4HMwR/m3u8
+
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez9R8oeFVmeYJRY6n-5VzYQQ35HnjZfz0tO9vFP2MSqqEYZpGcySavJAa5l5DrDMxdc.png" group-title="VIP Sports",Ziggo Sports Football
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov2D5Pazv9SLF2YX9RaJ3RQbz3HTedq7w0VyTNCe0ojWk/m3u8
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYiFsLIGVqrHHWEJAqLxcONZ9fzCuZWWs2iBNAmQj0M6A275pHklRS8cAc_YOuP3fgA.png" group-title="VIP Sports",Ziggo Sports Select
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov2D5Pazv9SLF2YX9RaJ3RQZ3Clx7tygh3k81MgXxT_jh/m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeBGBQOc1Xo2qdTp59-txZyG3JvVEEqDCMdjFKvbqSa9S_RnG-wgXXJWusnphobHdQ.png" group-title="Sports",WWE Superslam
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov3X7K5WL3IfemGelfl_plBfD2yHJ36hTuWNvVDBqPJxo/m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.nullpress.xyz:8443/images/e9e81c0cd366d964713890108249eb0a.png" group-title="Sports",UFC
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ovyY8E0HjEfxwq8iHH0bww-UMJ0AqAmt85IS4Z8ed-CI7/m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgyzndY4JnVGTYZp6Yip1JJY9vUfZsyhHdkFa38FWA38UVeu6wO4CiB6RDuFuBGe9k.png" group-title="Sports",Tennis Channel
+https://iptv.lancartech.co.id:443/play/hR_7E2yp0VcTHjDpu8_ov46lx-nncsqVVEjzGGSEUfk/m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
+#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
