@@ -1,8 +1,11 @@
 #EXTM3U 
 #EXTINF: list TV
 
-#EXTINF:-1 tvg-id="👉 GIAO HỮU  Việt Nam - Afghanista ⚽" group-title="👉 GIAO HỮU  Việt Nam - Afghanista ⚽" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/SPL1200x600GHVITNAMVSAFGHANISTAN2.jpg",19h00 01/06:Việt Nam - Afghanistan 
-https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://sieukeo.net/wp-content/uploads/2022/05/U23-Thai-Lan-vs-U23-Viet-Nam-soi-keo-3.jpg",22h00 02/06:Thái Lan U23 - Việt Nam U23
+https://web-livecdn.fptplay.net/hdevent/fsport01_4000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://sieukeo.net/wp-content/uploads/2022/05/U23-Thai-Lan-vs-U23-Viet-Nam-soi-keo-3.jpg",22h00 02/06:Thái Lan U23 - Việt Nam U23
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/JhdookM.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
