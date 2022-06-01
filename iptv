@@ -133,6 +133,16 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/PCqJNxH.png",SCTV22 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| VTVCAP" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
+https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi",ON Football HD
+https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/ON_Sports_Eng_logo.png/revision/latest/scale-to-width-down/220?cb=20220402142616&path-prefix=vi",ON Sports HD
+https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| VTVCAP" tvg-logo="https://livetvbydtpro.duckdns.org/other/logo/ongolf.png", ON Golf
+https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/01.m3u8
+
+
 #EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/FKxNfHu.png",VTC1  HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/MmlgEQJ.png",VTC2  HD
