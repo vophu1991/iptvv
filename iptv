@@ -73,6 +73,9 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="📺HTV" tvg-logo="https://i.imgur.com/AXxDDSe.png",KÊNH THIẾT NHI CBeebies 
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="📺HTV" tvg-logo="https://i.imgur.com/Z70hTut.jpg",KÊNH Tom và Jerry
+http://142.132.204.141:8080/live/jamel1/jamel2/60509.ts
+
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/h1T3j5D.png",HTVC Ca Nhạc HD
 https://vips-livecdn.fptplay.net/hda3/htvcmusic_4000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/iHaB7yV.png",HTVC Du Lịch & Cuộc Sống HD
