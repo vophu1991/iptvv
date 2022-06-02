@@ -1,5 +1,30 @@
 #EXTM3U 
 #EXTINF: uplist
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png" group-title="K+ VIEON",K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/a0d935c28735f2f9b38226d7dd4cb848/1654221602333/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fG1vYmlsZV93ZWJ8NWY5MTE1OGZkMjExMTY5ODA5OTJmZjQwZTMxMTZlN2V8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnxBMzMxQzN8NjhjOTliMDQ4OTMxMjliMDczZWFjNjI4MTBmMWQ2NGE=
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/04/08/z4cfm1u3_ngang_klife.png" group-title="K+ VIEON",K+LIFE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/7f49adcd3771b8d948bfbc72d6c9a087/1654221662597/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fG1vYmlsZV93ZWJ8NWY5MTE1OGZkMjExMTY5ODA5OTJmZjQwZTMxMTZlN2V8NDAzNjQyN2EtNjUzMi00ZDA5LWJlMWYtYWFmNTg3M2M3ZTQ3fGxpdmV0dnxBMzMxQzl8YTMyZjY5NjdkYjk2MjRiZDc3MzQ3NTlkNTgyOGFhODc=
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.png" group-title="K+ VIEON",K+KIDS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/dba4b28c35d453b4381b784f899c0843/1654221722922/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fG1vYmlsZV93ZWJ8NWY5MTE1OGZkMjExMTY5ODA5OTJmZjQwZTMxMTZlN2V8MjYwZjNhYTgtNWU0OC00MDI1LWJlYTQtZmZlZGQ3MTI5NjI0fGxpdmV0dnxBMzMxQ0R8Mjk0MDZjZGU1YjA3NzRkNjNiZGQ2ZjY5MDdhM2Y1ZmQ=
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.png" group-title="K+ VIEON",K+SPORT1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/e1960da204b00ea5ce7d5635f71556d2/1654221783218/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fG1vYmlsZV93ZWJ8NWY5MTE1OGZkMjExMTY5ODA5OTJmZjQwZTMxMTZlN2V8MWU1ZTk0ODAtMTNkMC00YTNjLTk3MGItNzgyODgwMDNkNzI4fGxpdmV0dnxBMzMxQ0V8NTc4ZDljNGVjZDNkOTc1YWU2ODcyMDg3MjdhZTE2NmI=
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png" group-title="K+ VIEON",K+SPORT2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/b27c2c4c5a010f87c404acb3a1721835/1654221843558/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fG1vYmlsZV93ZWJ8NWY5MTE1OGZkMjExMTY5ODA5OTJmZjQwZTMxMTZlN2V8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnxBMzMxQ0Z8MGU4ZDlhODhiNWQ1NmZhZjhhYTNmMDI1MTViZDBjNjY=
+
+
