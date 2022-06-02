@@ -187,8 +187,6 @@ https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/ON_Sports_Eng_logo.png/revision/latest/scale-to-width-down/220?cb=20220402142616&path-prefix=vi",ON Sports HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://livetvbydtpro.duckdns.org/other/logo/ongolf.png", ON Golf
-https://onsportlive.vtvcab.vn/hls/ONFOOTBALLHDTA_CL/01.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://livetvbydtpro.duckdns.org/other/logo/onsp.png" , ON Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
