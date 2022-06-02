@@ -158,22 +158,19 @@ https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/a0d935c28735f2f9b38226d7dd4cb848
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/145d2110ccb7a2db27843e825e03e181/1654154928229/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
-
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/7f49adcd3771b8d948bfbc72d6c9a087/1654221662597/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/GJE3rxM.png",VieON Kids HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/be38def2047f0ed7eb6e1b8c129fc66b/1654154988557/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
-
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/dba4b28c35d453b4381b784f899c0843/1654221722922/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/4SC6JPg.png",VieON Sport1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/0592a2567736f7c6834496264224c7e6/1654155048830/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
-
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/e1960da204b00ea5ce7d5635f71556d2/1654221783218/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/IRVz9S3.png",VieON Sport2 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
