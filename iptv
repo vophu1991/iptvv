@@ -183,37 +183,31 @@ https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/06713c86f1103f6112f0cab0f8ed1384
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi",ON Football HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/ON_Sports_Eng_logo.png/revision/latest/scale-to-width-down/220?cb=20220402142616&path-prefix=vi",ON Sports HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://livetvbydtpro.duckdns.org/other/logo/onsp.png" , ON Sports HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://webapi.mytv.vn/static/channel/200.png" , ON Sports HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ODQ2MTVmNzgtMmI0OS0zZWQ0LWE2NDMtNzQ4NmM3MTNmNTI3 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
 
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi" , ON Football HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://webapi.mytv.vn/static/channel/208.png" , ON Football HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ODQ2MTVmNzgtMmI0OS0zZWQ0LWE2NDMtNzQ4NmM3MTNmNTI3 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://livetvbydtpro.duckdns.org/other/logo/onspnew.png", ON Sports News
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://webapi.mytv.vn/static/channel/441.png", ON Sports News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ODQ2MTVmNzgtMmI0OS0zZWQ0LWE2NDMtNzQ4NmM3MTNmNTI3 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://livetvbydtpro.duckdns.org/other/logo/ongolf.png", ON Golf
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://webapi.mytv.vn/static/channel/415.png", ON Golf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ODQ2MTVmNzgtMmI0OS0zZWQ0LWE2NDMtNzQ4NmM3MTNmNTI3 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
-https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
 
 
