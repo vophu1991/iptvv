@@ -367,11 +367,11 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
+#EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-#EXTINF:0 group-title="⚽THỂ THAO NƯƠC NGOÀI⚽" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
+#EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
+http://zeintv.xyz:8080/live/jamel1/jamel2/66135.ts
+#EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
