@@ -5,12 +5,12 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/a0d935c28735f2f9b38226d7dd4cb848/1654221602333/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fG1vYmlsZV93ZWJ8NWY5MTE1OGZkMjExMTY5ODA5OTJmZjQwZTMxMTZlN2V8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnxBMzMxQzN8NjhjOTliMDQ4OTMxMjliMDczZWFjNjI4MTBmMWQ2NGE=
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/a0d935c28735f2f9b38226d7dd4cb848/1654221602333/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/04/08/z4cfm1u3_ngang_klife.png" group-title="K+ VIEON",K+LIFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/7f49adcd3771b8d948bfbc72d6c9a087/1654221662597/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd?token=NzY1Njg1OWEtYjU0Zi0wNGFjLWE4NTAtMTFhNzRlZjUzN2Y0fG1vYmlsZV93ZWJ8NWY5MTE1OGZkMjExMTY5ODA5OTJmZjQwZTMxMTZlN2V8NDAzNjQyN2EtNjUzMi00ZDA5LWJlMWYtYWFmNTg3M2M3ZTQ3fGxpdmV0dnxBMzMxQzl8YTMyZjY5NjdkYjk2MjRiZDc3MzQ3NTlkNTgyOGFhODc=
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/7f49adcd3771b8d948bfbc72d6c9a087/1654221662597/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
 #EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.png" group-title="K+ VIEON",K+KIDS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://hongthuy.tk/drm/key.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
