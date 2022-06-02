@@ -147,8 +147,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/33b0d9843733c17a796524efcb8d6e30/1654154867940/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
-
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/a0d935c28735f2f9b38226d7dd4cb848/1654221602333/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/sZ84Pco.png",VieON Life HD 
@@ -176,7 +175,7 @@ https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/0592a2567736f7c6834496264224c7e6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/06713c86f1103f6112f0cab0f8ed1384/1654155109129/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/b27c2c4c5a010f87c404acb3a1721835/1654221843558/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
 
 
 
