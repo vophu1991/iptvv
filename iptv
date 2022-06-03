@@ -1,12 +1,6 @@
 #EXTM3U 
 #EXTINF: list TV
 
-#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/qSvznu9.png",20h00 03/06:UAE - Japan
-https://web-livecdn.fptplay.net/hdevent/fsport02_4000.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="👉 TRỰC TIÊP U23 CHÂU Á ⚽" group-title="👉 TRỰC TIÊP U23 CHÂU Á ⚽" tvg-logo="https://i.imgur.com/weAhf0K.png",22h00 03/06:Saudi Arabia - Tajikistan 
-https://web-livecdn.fptplay.net/hdevent/fsport03_4000.stream/playlist.m3u8
-
 
 
 
@@ -184,11 +178,16 @@ https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/736b05cbc8cb885034759544444e4519/
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/KsfeYKH.png", ON VFF
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/ON_Sports_Eng_logo.png/revision/latest/scale-to-width-down/220?cb=20220402142616&path-prefix=vi",ON Sports HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi",ON Football HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740
-
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/B1asBKk.png", ON Sports+
+https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/iUfxjNZ.png", ON Sports HD 
+http://vthanhvnpt.duckdns.org/onsports/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/YL9bgJM.png", ON Football HD 
+http://vthanhvnpt.duckdns.org/onfootball/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/r25laZJ.png", ON Sports News
+http://vthanhvnpt.duckdns.org/onsportsnews/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON Golf Eng
+http://vthanhvnpt.duckdns.org/ongolfeng/mpegts
 
 
 
