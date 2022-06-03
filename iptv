@@ -151,8 +151,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/e8fad6106014c22a33470282157475e0/1654308002178/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
-
+https://sugustvno1.tk/get/ott/vieon.php?kenh=k-1-hd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/sZ84Pco.png",VieON Life HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
