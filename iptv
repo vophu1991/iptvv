@@ -139,11 +139,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/cEFQ3NG.png",VieON Cine HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/a0d935c28735f2f9b38226d7dd4cb848/1654221602333/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/cEFQ3NG.png",VieON Cine HD 
@@ -185,6 +180,16 @@ https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/6b422f763d4ae4a9725f86372c8ad7f2
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/ON_Sports_Eng_logo.png/revision/latest/scale-to-width-down/220?cb=20220402142616&path-prefix=vi",ON Sports HD
+https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi",ON Football HD
+https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="VTVCab3hd" group-title="K+ VIP" tvg-logo="https://sugustv.duckdns.org/other/logo/onsp.png" catchup-days="0.03" catchup-source="https://sugustv.duckdns.org/other/server.php?u=kplus&p=share", ON Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
