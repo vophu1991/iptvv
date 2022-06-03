@@ -175,12 +175,11 @@ https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/e5635827740d543e9d759f7b9d3ee317
 https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/e0396388d88b1481be8c9dba6ce2eb1c/1654308183115/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/IRVz9S3.png",VieON Sport2 HD 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/IRVz9S3.png",VieON 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/6b422f763d4ae4a9725f86372c8ad7f2/1654308243513/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
-
+https://sugustvno1.tk/get/ott/vieon.php?kenh=k-ngoai-hang-anh-the-thao
 
 
 
