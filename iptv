@@ -145,34 +145,34 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/57b24161c04f558ff576c0d95ddf070b/1654350046386/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/30f85f9e59e72679bfb47609b227721a/1654409326108/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/sZ84Pco.png",VieON Life HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/c99b3f8b123514386f2473928c924a86/1654308062412/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/012cc878357872acd35ea74f65726df2/1654409326194/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/GJE3rxM.png",VieON Kids HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/e5635827740d543e9d759f7b9d3ee317/1654308122798/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/ccfa918ac8a2d80a3fd13b9088bf2b7c/1654409327593/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/4SC6JPg.png",VieON Sport1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/e0396388d88b1481be8c9dba6ce2eb1c/1654308183115/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/a724c503ffb9f9bf37d53f2e54266221/1654409327733/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+VieON" tvg-logo="https://i.imgur.com/IRVz9S3.png",VieON 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sugustv.duckdns.org/drm/key.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-vtt-002-livecdn-vthn2-vnd.vieon.vn/736b05cbc8cb885034759544444e4519/1654350548893/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/59de3e5d7a4b892f7a1de5b64f999046/1654409327803/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/KsfeYKH.png", ON VFF
