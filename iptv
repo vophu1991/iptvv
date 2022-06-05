@@ -413,6 +413,32 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 
 
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-movie&itb=1
+
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-channel&itb=1
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=box-hits&itb=1
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=man-tv&itb=1
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=dr-fit&itb=1
+
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=planet-earth&itb=1
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman NetHub
+https://api.vthanhtivii.xyz/v1/getlink/nethub?id=woman&itb=1
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
