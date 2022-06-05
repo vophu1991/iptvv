@@ -185,8 +185,7 @@ http://vthanhvnpt.duckdns.org/onfootball/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/r25laZJ.png", ON Sports News
 http://vthanhvnpt.duckdns.org/onsportsnews/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/sbPpdhM.png", ON Golf 
-http://vthanhvnpt.duckdns.org/ongolfeng/mpegts
-
+https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 
 
 #EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/FKxNfHu.png",VTC1  HD
