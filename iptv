@@ -120,7 +120,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/gU3PGYm.png",SCTV9 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/SYvda9E.png",SCTV10 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/s1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/6IEQRK9.png", SCTV11 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/vcg5GeI.png",SCTV12 thử nghiệm
