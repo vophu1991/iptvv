@@ -416,24 +416,24 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
 
 
-#EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
+#EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
+#EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
 http://zeintv.xyz:8080/live/jamel1/jamel2/66135.ts
-#EXTINF:0 group-title="⚽ĐẤU VÕ ĐÀI⚽" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
+#EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:0 group-title="⛹THỂ THAO NƯỚC NGOÀI⛹" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", beIN Sports HD
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", beIN Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fbffd1ff21340169a5a1142bcf4ddad&key=4b3898bc8a6ffd8b5cb34a7cd906dc35
 http://vn2.jimis.me:8084/api/sooka/linear02/bein1/index.mpd
 
-#EXTINF:0 group-title="⛹THỂ THAO NƯỚC NGOÀI⛹" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814", beIN Sports 2 HD
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814", beIN Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a577184ed6c64560beb87c96ee78f7b8&key=65f88f668501f7efa75c25be598f7456
 http://vn2.jimis.me:8084/api/sooka/linear02/bein2/index.mpd
 
-#EXTINF:0 group-title="⛹THỂ THAO NƯỚC NGOÀI⛹" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242", beIN Sports 3 HD
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5cb05d14c8dd4563b956e37d0a0f1177&key=c527d4a5b3d4364312a4e78b9de9e880
 http://vn2.jimis.me:8084/api/sooka/linear02/bein3/index.mpd
