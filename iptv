@@ -95,11 +95,11 @@ https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_4000.stream/playlist.m3u8
 https://livecdn.fptplay.net/sdb/htvcmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/9m3HCz1.jpg",HTVC Phụ Nữ HD
 https://vips-livecdn.fptplay.net/hda3/htvcphunu_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/fgi1Awt.png",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/Wg0GQL4.png",HTVC Thuần Việt
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/6700RcG.png",HTVC Thuần Việt HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/poNukGz.png",HTVC Thuần Việt HD
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/X7ww6TJ.png",HTVC PLUS HD
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/QjHjZol.png",HTVC PLUS HD
 https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/playlist.m3u8
 
 
