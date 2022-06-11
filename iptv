@@ -151,45 +151,45 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/YAnVi7H.png", K+CINE HD VÕ PHÚ 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/p3VlacK.jpg", K+CINE HD VÕ PHÚ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd 
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18b3RoZXJ8MTY1MzEzMTU0MXwxMDMuMjAwLjIyLjIxMnw4NGY5NDhmYmI1MDUzY2JhN2EyNDg1NjA1NDk5Yjk1ZQ/drmlive/14022022k1cine_4000.stream/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/W2ygjzA.png", K+LIFE HD VÕ PHÚ 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/rTY3ZtO.jpg", K+LIFE HD VÕ PHÚ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21 
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWxpZmViXzIwMDAuc3RyZWFtfG90aGVyfDE2NTMxMzE1Mjh8MTAzLjIwMC4yMi4yMTJ8MzU3NDgzYTVkODUxNjQxNTQyMWUyOGIwNWY5MDAzMTI/drmlive/14022022k1lifeb_4000.stream/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/e8qqRIm.png", K+SPORT1 HD VÕ PHÚ 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/Xt1x5R8.png", K+SPORT1 HD VÕ PHÚ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e 
 https://smarttv-drm.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0MWJveF8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTI4fDEwMy4yMDAuMjIuMjEyfDc3NmY3NzI2NWU4YjJmZTBhOGRkY2QzYWU0YjUzZjBm/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/haaGYEX.png", K+SPORT2 HD VÕ PHÚ 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/2gurYW9.jpg", K+SPORT2 HD VÕ PHÚ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098 
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTA0fDEwMy4yMDAuMjIuMjEyfGNiMzExOTU5NjRjYjk0YjQ0NjNjMGFmMjdkNTU1OTg2/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/KsfeYKH.png", ON VFF
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/98bOJBl.jpg", ON VFF
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/B1asBKk.png", ON Sports+
 https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/iUfxjNZ.png", ON Sports HD 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/J7ctydQ.jpg", ON Sports HD 
 http://vthanhvnpt.duckdns.org/onsports/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/YL9bgJM.png", ON Football HD 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/d48js4C.jpg", ON Football HD 
 http://vthanhvnpt.duckdns.org/onfootball/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/r25laZJ.png", ON Sports News
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/uGKaxnf.jpg", ON Sports News
 http://vthanhvnpt.duckdns.org/onsportsnews/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/sbPpdhM.png", ON Golf 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/DpDnocH.jpg", ON Golf 
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 
 
