@@ -101,7 +101,9 @@ https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_4000.stream/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/X7ww6TJ.png",HTVC PLUS HD
 https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/playlist.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/Z2pgTK1.png",SCTV HD phim thử nghiệm
+
+
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/aGxchSE.png",SCTV HD PHIM TỔNG HỘP thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
 #EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/lHArlwz.jpg", SCTV1 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
