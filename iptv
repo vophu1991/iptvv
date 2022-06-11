@@ -8,6 +8,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
 
 
+
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/m3Qualv.jpg",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺VTV📺" tvg-logo="https://i.imgur.com/2VcsldL.jpg",VTV2 HD
@@ -68,19 +69,19 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/Wsb2Bqn.png", K+KIDS HD MyK+
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/Wsb2Bqn.png", K+KIDS HD MyK+🎅
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=914cee5254d2425bb1c31b199f571a71&key=0354b538fbf0408d2454ed02e5c11774 
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
-#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/yb7x6fg.png",KÊNH THIẾT NHI Cartoon Network 
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/yb7x6fg.png",KÊNH THIẾT NHI Cartoon Network🎅
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/WrOWxGy.png",KÊNH THIẾT NHI Boomerang
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/WrOWxGy.png",KÊNH THIẾT NHI Boomerang🎅
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/ylcJ0LW.png",KÊNH THIẾT NHI HAPPY KIDS HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/ylcJ0LW.png",KÊNH THIẾT NHI HAPPY KIDS HD🎅
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/AXxDDSe.png",KÊNH THIẾT NHI CBeebies 
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/AXxDDSe.png",KÊNH THIẾT NHI CBeebies🎅
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/Z70hTut.jpg",KÊNH Tom và Jerry
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/Z70hTut.jpg",KÊNH Tom và Jerry🎅
 http://zeintv.xyz:8080/live/jamel1/jamel2/60509.ts
 
 
