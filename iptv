@@ -100,51 +100,51 @@ https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_4000.stream/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="📺HTVC📺" tvg-logo="https://i.imgur.com/X7ww6TJ.png",HTVC PLUS HD
 https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/playlist.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/1Nr9AyE.png",SCTV HD phim thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/PkSS0GS.jpg",SCTV HD phim thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/vYVmZ0j.png", SCTV1 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/lHArlwz.jpg", SCTV1 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/w0Cf9Dz.png",SCTV2 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/op4KV3i.jpg",SCTV2 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/QNPf7cQ.png",SCTV3 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/RVvg40C.jpg",SCTV3 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/0P9CZQH.png",SCTV4 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/NMKJiVx.jpg",SCTV4 thử nghiệm
 hhttps://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/eS2Lvy8.png",SCTV5 thử  nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/pYk0tuo.jpg",SCTV5 thử  nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/9KRyiyY.png",SCTV6 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/V39Py3B.jpg",SCTV6 thử nghiệm
 https://vips-livecdn.fptplay.net/hda3/film360_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/Z2JjX5q.png",SCTV7 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/d86XaTG.jpg",SCTV7 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/OVJNDqa.png", SCTV8 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/yGg8XXZ.jpg", SCTV8 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/gU3PGYm.png",SCTV9 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/M5IzgUZ.jpg",SCTV9 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/SYvda9E.png",SCTV10 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/ZT9DnVo.jpg",SCTV10 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/6IEQRK9.png", SCTV11 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/zPc4V3K.jpg", SCTV11 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/vcg5GeI.png",SCTV12 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/BMxNLoU.jpg",SCTV12 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/SBabKsN.png",SCTV13 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/qZp0ypi.jpg",SCTV13 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/LoQWZ2r.png",SCTV14 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/6ADMmFP.jpg",SCTV14 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/6BpauNC.png",SCTV15 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/CtNAWst.jpg",SCTV15 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/a7sNCuc.png",SCTV16 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/1JIXf1x.jpg",SCTV16 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/j9kuqje.png",SCTV 17 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/9crl4vY.jpg",SCTV 17 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/qsswLpI.png",SCTV 18  thử nghiêm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/XjIqO3e.jpg",SCTV 18  thử nghiêm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/1EqFi6b.png",SCTV19 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/lRlVHFo.jpg",SCTV19 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/LGjOVv9.png",SCTV20 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/dvIY7s6.jpg",SCTV20 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/YyYiXRr.png",SCTV21 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/vabKf4R.jpg",SCTV21 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8
-#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/PCqJNxH.png",SCTV22 thử nghiệm
+#EXTINF:0 group-title="📺SCTV📺" tvg-logo="https://i.imgur.com/uzenoQZ.jpg",SCTV22 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8
 
 
