@@ -198,9 +198,15 @@ https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/J7ctydQ.jpg", ON Sports HD 
-http://vthanhvnpt.duckdns.org/onsports/mpegts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sugustvno1.tk/drm/key.php?keyid=390d644f09253a22a13313161332d273&key=e3ca222e947b2603650acb1047260158
+https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab3.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/d48js4C.jpg", ON Football HD 
-http://vthanhvnpt.duckdns.org/onfootball/mpegts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sugustvno1.tk/drm/key.php?keyid=1a541117f6e336978fc66413b083864d&key=b10d5b0e8fdcf61942bcab9fcde17aee
+https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab16.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/uGKaxnf.jpg", ON Sports News
 http://vthanhvnpt.duckdns.org/onsportsnews/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/DpDnocH.jpg", ON Golf 
