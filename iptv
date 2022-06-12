@@ -199,7 +199,7 @@ https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/YA2a6yC.png",GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://sugustvno1.tk/get/ott/vieon.php?kenh=vie-giai-tri-hd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/miwb6fgh_drama-moi_296_168.web",pvie-dramas
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/jGgOZT0.png",pvie-dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sugustvno1.tk/get/ott/vieon.php?kenh=vie-dramas-hd
 
