@@ -193,7 +193,10 @@ https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cm
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/jHLwwLg.png", ON Sports+
-https://api.vthanhtivii.xyz/v1/getlink/vtvgo/196
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sugustvno1.tk/drm/key.php?keyid=fa573d3f21c235509af3c4d68403a16e&key=998bc8d35f8cbbd643e87050f0adc355
+https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/J7ctydQ.jpg", ON Sports HD 
 http://vthanhvnpt.duckdns.org/onsports/mpegts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/d48js4C.jpg", ON Football HD 
