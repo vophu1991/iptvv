@@ -214,12 +214,12 @@ https://sugustvno1.tk/get/ott/vieon.php?kenh=vie-giai-tri-hd
 https://sugustvno1.tk/get/ott/vieon.php?kenh=vie-dramas-hd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/rmtQYsJ.png", Style TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sugustvno1.tk/drm/key.php?keyid=f0370fadbe5a3ff080809e63e5113905&key=db3d9de3216fc0293d00fb5358177f02
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f0370fadbe5a3ff080809e63e5113905&key=db3d9de3216fc0293d00fb5358177f02
 https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab12.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/ZxmcwOW.png", Yeah1 TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sugustvno1.tk/drm/key.php?keyid=9bccac1cafd739ce81e970d822d7f3fa&key=c18cb1d09c8d41eb580c748aba1606ad
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9bccac1cafd739ce81e970d822d7f3fa&key=c18cb1d09c8d41eb580c748aba1606ad
 https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab17.smil/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/zEP6Noq.jpg",VTVCAP 4
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8
