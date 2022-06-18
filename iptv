@@ -306,7 +306,7 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/bFkn8Di.png",Đồng Nai 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sugustvno1.tk/get/ott/vieon.php?kenh=dong-nai-3
+https://api.vthanhtivii.xyz/v1/getlink/vieon/dong-nai-3
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/mGV35q1/IMG-20211031-173521.png",Đồng Nai 9 HD
 https://livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/mGd0Whr/IMG-20210819-191951.png",Tây Ninh HD
@@ -316,7 +316,7 @@ https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/W03cFWh/IMG-20211102-181241.png",Bình Phước 3
 https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/qMWVxR0/IMG-20210820-060117.jpg",Đà Nẵng 1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/GP2cjxX/IMG-20210820-060123.jpg",Đà Nẵng 2
 https://livecdn.fptplay.net:443/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/vXkNsGc/IMG-20210820-095233.png",Ninh Thuận
@@ -334,7 +334,7 @@ https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/TTX3761/IMG-20211007-161618.png",Hải Phòng HD+
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/58PZ1mt/IMG-20210820-095110.png",đăk nông HD
-https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/playlist.m3u8?iptvbyvovanloc
+https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/YbcqyDP/IMG-20210820-095043.png",Lào Cai HD
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/CJrGSHY/IMG-20210820-095025.png",Cao Bằng HD
