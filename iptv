@@ -80,8 +80,7 @@ https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/azaJALt.png",KÊNH THIẾT NHI CBeebies🎅
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/Sn2oB3t.jpg",KÊNH Tom và Jerry🎅
-#EXTVLCOPT:http-user-agent=TuBienTV
-https://tbientv.xyz/tomjerry/?1
+http://zeintv.xyz:8080/live/jamel1/jamel2/60509.ts
 #EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/YakozOo.png",KÊNH THIẾT NHI Boomerang🎅
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 
@@ -446,7 +445,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
-http://zeintv.xyz:8080/live/jamel1/jamel2/66135.ts
+http://zeintv.xyz:8080/live/jamel1/jamel2/54906.ts
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
