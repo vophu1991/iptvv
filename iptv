@@ -329,11 +329,11 @@ https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/9E5nuxE.jpg",Hải Dương
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/r4cyjjc.jpg",Phú Thọ HD
-http://livecdn.fptplay.net/sda/phutho_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/vvJrqtu.jpg",Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/wh7MYBP.jpg",điện biên HD
-https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/gYthwiM.jpg",Hải Phòng HD
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/TTX3761/IMG-20211007-161618.png",Hải Phòng HD+
@@ -359,17 +359,17 @@ https://8387e1fb5a.vws.vegacdn.vn/live/thainguyen2/chunklist_1.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/8cI9A7z.jpg",Sơn La
 http://118.107.85.5:1935/live/smil:STV.smil/chunklist_w1744292611_b1384000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/anI6Idh.jpg",Lạng Sơn HD
-http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/RJPGUqC.jpg",Quảng Ninh 1
-http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/coVdvyK.jpg",Quảng Ninh 3 HD
-http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/HQMmHTB.jpg",Bắc Ninh HD
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/cCphmMT.jpg",Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/NQA1Tod.jpg", Hưng yên
-https://livecdn.fptplay.net/sdc/hungyen_2000.stream/playlist.m3u8
+https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/dDGc6aT.jpg", Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.ibb.co/jzZkzvZ/IMG-20210821-104500.png",Bắc Giang HD
@@ -377,15 +377,15 @@ http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/vCeaPCA.jpg",Phú Yên HD
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/ggcybkr.jpg",Hà Giang HD
-http://113.162.84.113:8080/hls/fm/index.m3u8
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/KqGdiNc.jpg", HÀ NAM
 http://117.4.240.220/Medias/HaNam/720P/playlist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/uhBxNza.jpg",ninh bình HD
-https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/BwCXa13.jpg",Nghệ An HD
-https://livecdn.fptplay.net/sda/nghean_hls.smil/playlist.m3u8
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/c26O0j2.jpg",Hà Tĩnh HD
-http://hatinhtv.vn:82/hls/httv.m3u8
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/corvwim.jpg",Quảng Bình
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/sateItR.jpg",Quảng Ngãi HD
