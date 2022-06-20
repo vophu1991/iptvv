@@ -288,6 +288,8 @@ https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/v9vHsKf.jpg",trà vinh HD
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/qhd8oBL.png",TRÀ VINH 2
+https://travinhtv.vn/api/httpsline/aHR0cDovLzExOC42OS4xNjkuNDI6MTkzNS9USFRWMi9teXN0cmVhbS9wbGF5bGlzdC5tM3U4&playlist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/2bQUnLy.jpg",Sóc Trăng 1
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/d07DlGJ.jpg",Sóc Trăng 2
