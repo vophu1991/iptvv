@@ -40,6 +40,8 @@ https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/HCMvaEw.jpg",Long An
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/37i2S2H.png",VSAM TV
+https://59d39900ebfb8.streamlock.net/Vsamchicagotv/Vsamchicagotv/playlist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/KTPQegp.jpg",Bến Tre HD
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/zBwYuJA.jpg",Bình Phước 1 HD
