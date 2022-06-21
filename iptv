@@ -211,6 +211,10 @@ https://smarttv-drm.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0MWJveF8yMDAwLnN0
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098 
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTA0fDEwMy4yMDAuMjIuMjEyfGNiMzExOTU5NjRjYjk0YjQ0NjNjMGFmMjdkNTU1OTg2/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+VÕ PHÚ " tvg-logo="https://i.imgur.com/ezGLWjN.png", K+KIDS HD VÕ PHÚ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=914cee5254d2425bb1c31b199f571a71&key=0354b538fbf0408d2454ed02e5c11774 
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/98bOJBl.jpg", ON VFF
