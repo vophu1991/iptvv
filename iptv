@@ -326,6 +326,7 @@ https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/AQ7lj1a.jpg",YOU TV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
+
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/5QzbUHu.jpg",Đà Nẵng 1
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/5YP9tAs.jpg",Đà Nẵng 2
@@ -480,4 +481,10 @@ http://vn2.jimis.me:8084/api/sooka/linear02/bein3/index.mpd
 http://gg.gg/Rmcsp1
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/8ztSugS.jpg",RMC 2
 http://gg.gg/Rmcsp2
+
+
+#EXTINF:0 group-title="⚽TRỰC TIẾP BÓNG ĐÁ THƯ NGHIỆM⚽" tvg-logo="https://i.imgur.com/KrOA8Qf.png",
+#EXTVLCOPT: http-referrer=https://live.rakhoi1.live/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@chaohd1/playlist.m3u8
+
 
