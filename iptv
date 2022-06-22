@@ -2,23 +2,23 @@
 #EXTINF: list TV
 
 
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/m3Qualv.jpg",VTV1 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/m3Qualv.jpg",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/2VcsldL.jpg",VTV2 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/2VcsldL.jpg",VTV2 HD
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/6FurwOy.jpg",VTV3 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/6FurwOy.jpg",VTV3 HD
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/63tBjhD.jpg",VTV4 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/63tBjhD.jpg",VTV4 HD
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/rSecQH0.jpg",VTV5 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/rSecQH0.jpg",VTV5 HD
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/HKajnUI.jpg",VTV6  HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/HKajnUI.jpg",VTV6  HD
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/wKPcCP1.jpg",VTV7  HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/wKPcCP1.jpg",VTV7  HD
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/57XGWxW.jpg",VTV8 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/57XGWxW.jpg",VTV8 HD
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="💖𝐕𝐓𝐕" tvg-logo="https://i.imgur.com/J4y3T9d.jpg",VTV9 HD
+#EXTINF:0 group-title="📺𝐕𝐓𝐕📺" tvg-logo="https://i.imgur.com/J4y3T9d.jpg",VTV9 HD
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/W07kPef.jpg",Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
@@ -259,36 +259,36 @@ https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab17.smil/manifest.mpd
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8
 
 
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/8rY3RhY.jpg",𝐕𝐓𝐂1  HD
-https://vips-livecdn.fptplay.net/hda1/𝐕𝐓𝐂1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/Q𝐕𝐓𝐂2iY.jpg",𝐕𝐓𝐂2  HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/ea8l0ey.jpg",𝐕𝐓𝐂3  HD
-https://livecdn.fptplay.net/hda1/𝐕𝐓𝐂3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/QMYxGFD.jpg",𝐕𝐓𝐂4 HD
-https://livecdn.fptplay.net/sdc/𝐕𝐓𝐂4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/ywOIH0Y.jpg",𝐕𝐓𝐂5 HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/SgTMl7X.png",𝐕𝐓𝐂6 HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/9DJqGHY.jpg",𝐕𝐓𝐂7 - TodayTV
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/8rY3RhY.jpg",VTC1  HD
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/QvTc2iY.jpg",VTC2  HD
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/ea8l0ey.jpg",VTC3  HD
+https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/QMYxGFD.jpg",VTC4 HD
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/ywOIH0Y.jpg",VTC5 HD
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/SgTMl7X.png",VTC6 HD
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/9DJqGHY.jpg",VTC7 - TodayTV
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺�𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/KXpJmRf.jpg",𝐕𝐓𝐂8  HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/ywy9eqX.jpg",𝐕𝐓𝐂9  HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/WmoYnG6.jpg",𝐕𝐓𝐂10 HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/WVteVet.jpg",𝐕𝐓𝐂11 HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/XlNnemR.jpg",𝐕𝐓𝐂12 HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/aOYMHa7.jpg",𝐕𝐓𝐂13  HD
-https://vips-livecdn.fptplay.net/hda1/𝐕𝐓𝐂13_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/wh4AyxS.jpg",𝐕𝐓𝐂14 HD
-https://vips-livecdn.fptplay.net/hda1/𝐕𝐓𝐂14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺𝐕𝐓𝐂📺" tvg-logo="https://i.imgur.com/IAWmcMr.jpg",𝐕𝐓𝐂16 HD
-https://livecdn.fptplay.net/sdb/𝐕𝐓𝐂16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/KXpJmRf.jpg",VTC8  HD
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/ywy9eqX.jpg",VTC9  HD
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/WmoYnG6.jpg",VTC10 HD
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/WVteVet.jpg",VTC11 HD
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/XlNnemR.jpg",VTC12 HD
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/aOYMHa7.jpg",VTC13  HD
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/wh4AyxS.jpg",VTC14 HD
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺VTC📺" tvg-logo="https://i.imgur.com/IAWmcMr.jpg",VTC16 HD
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/tuWQEok.jpg",Hà Nội 1 HD
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/yNupVCh.jpg",Hà Nội 2  HD
