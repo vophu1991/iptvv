@@ -40,8 +40,6 @@ https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/HCMvaEw.jpg",Long An
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="📺KÊNH HẢI NGOẠI 📺" tvg-logo="https://i.imgur.com/37i2S2H.png",VSAM TV
-https://59d39900ebfb8.streamlock.net/Vsamchicagotv/Vsamchicagotv/playlist.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/KTPQegp.jpg",Bến Tre HD
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/zBwYuJA.jpg",Bình Phước 1 HD
@@ -446,12 +444,13 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/7Oe18uR.jpg",CinemaWorld HD 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-
-
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 NetHub
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman NetHub
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/37i2S2H.png",VSAM TV
+https://59d39900ebfb8.streamlock.net/Vsamchicagotv/Vsamchicagotv/playlist.m3u8
+
 
 
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
