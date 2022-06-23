@@ -238,6 +238,11 @@ https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab16.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/DpDnocH.jpg", ON Golf 
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/Tw64Ufz.png", Golf 
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/YA2a6yC.png",GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://api.vthanhtivii.xyz/v1/getlink/vieon/vie-giai-tri-hd
@@ -492,5 +497,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5059
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", Astro Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2504
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png", Golf Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1003
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/251ca39a5da748d29ab60e6e731d25b4/version/0/width/1280/height/720/quality/80", SPOTV (Asia Feed)
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/1e5703eeac644cf58f2ec2ba78210cc9/version/0/width/1280/height/720", SPOTV2 (Asia Feed)
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 
