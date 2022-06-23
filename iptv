@@ -468,6 +468,25 @@ http://gg.gg/Rmcsp1
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/8ztSugS.jpg",RMC 2
 http://gg.gg/Rmcsp2
 
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", Astro Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2504
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_UHD_v1.png", Astro UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1600
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_UHD_v1.png", Astro UHD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 
 
