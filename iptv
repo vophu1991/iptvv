@@ -456,7 +456,9 @@ https://59d39900ebfb8.streamlock.net/Vsamchicagotv/Vsamchicagotv/playlist.m3u8
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
-http://zeintv.xyz:8080/live/jamel1/jamel2/54906.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2603
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
