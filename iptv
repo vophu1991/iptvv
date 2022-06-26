@@ -239,13 +239,8 @@ https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab16.smil/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/DpDnocH.jpg", ON Golf 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?1654448400c23887309d048beef83ad3eabf2a79a64a389ab1c9f/m3u8
-#https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
+https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/zft1VBS.jpg", ON Sports new
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://tbientv.xyz/channel/?1654448400c18887309d048beef83ad3eabf2a79a64a389ab1c9f/m3u8
 
 
 
