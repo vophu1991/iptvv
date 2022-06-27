@@ -478,21 +478,23 @@ http://gg.gg/Rmcsp1
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/8ztSugS.jpg",RMC 2
 http://gg.gg/Rmcsp2
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", Astro Supersport FHD AstGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
 
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png",Now Sports 1
 http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/iproblock.php?id=200230
 
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png",Tennis Channel
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/bb/96/e0/bb96e0f3-c799-d821-75a9-cfd08d58b0e4/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MU TV
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/nxS6QQh.png",MU TV
 http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=21037
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",liverpool tv
 http://donglao.duckdns.org:9981/stream/channelid/1019862275?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", Astro Supersport FHD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Astro_ASSP_HD2.png", Astro Supersport 2 FHD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -530,10 +532,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1003
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV 
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/sites/3/2021/12/SPOTV.png", SPOTV 
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png", SPOTV 2
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20HD-FirstMedia-Chl-330.jpg", SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 
