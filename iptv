@@ -486,6 +486,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png",Now Sports 1
 http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/iproblock.php?id=200230
 
+
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MU TV
+http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=21037
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",liverpool tv
+http://donglao.duckdns.org:9981/stream/channelid/1019862275?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Astro_ASSP_HD2.png", Astro Supersport 2 FHD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
