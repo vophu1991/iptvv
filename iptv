@@ -454,13 +454,13 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/7Oe18uR.jpg",CinemaWorld HD 
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 NetHub
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1604651302/cmc_new/img.live_channel/0/0/0/0/250.jpg", Box Movie 1 
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman NetHub
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png", Woman 
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
-#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/37i2S2H.png",VSAM TV
-https://59d39900ebfb8.streamlock.net/Vsamchicagotv/Vsamchicagotv/playlist.m3u8
-
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1628059683/cmc_new/img.live_channel/0/0/0/0/268.jpg",Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sugustv.tk/iptv/get/mytv.php?id=105
 
 
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
