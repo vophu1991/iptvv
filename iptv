@@ -493,51 +493,6 @@ http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=21037
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",liverpool tv
 http://donglao.duckdns.org:9981/stream/channelid/1019862275?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", Astro Supersport FHD AstGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Astro_ASSP_HD2.png", Astro Supersport 2 FHD AstGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/813_300.png", Astro Supersport 3 FHD AstGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png", Astro Supersport 4 FHD AstGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ab/Astro_Supersport_5_HD_2017.png", Astro Supersport 5 FHD AstGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5059
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", Astro Cricket HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2504
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png", Golf Channel HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1003
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/sites/3/2021/12/SPOTV.png", SPOTV 
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20HD-FirstMedia-Chl-330.jpg", SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 
