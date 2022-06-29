@@ -236,13 +236,11 @@ https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab3.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1a541117f6e336978fc66413b083864d&key=b10d5b0e8fdcf61942bcab9fcde17aee
 https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab16.smil/manifest.mpd
-
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/zft1VBS.jpg", ON Sports News
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=170&playlist.m3u
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/DpDnocH.jpg", ON Golf 
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/Tw64Ufz.png", Golf 
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
