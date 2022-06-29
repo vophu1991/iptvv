@@ -223,9 +223,10 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/jHLwwLg.png", ON Sports+
+https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=183&playlist.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fa573d3f21c235509af3c4d68403a16e&key=998bc8d35f8cbbd643e87050f0adc355
-https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
+#https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/J7ctydQ.jpg", ON Sports HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
