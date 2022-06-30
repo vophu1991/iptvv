@@ -223,10 +223,9 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/jHLwwLg.png", ON Sports+
-https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=183&playlist.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fa573d3f21c235509af3c4d68403a16e&key=998bc8d35f8cbbd643e87050f0adc355
-#https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
+https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/J7ctydQ.jpg", ON Sports HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -237,12 +236,12 @@ https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab3.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1a541117f6e336978fc66413b083864d&key=b10d5b0e8fdcf61942bcab9fcde17aee
 https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab16.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/zft1VBS.jpg", ON Sports News
-https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=170&playlist.m3u
+#https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=170&playlist.m3u
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/DpDnocH.jpg", ON Golf 
-https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=169&playlist.m3u
-#https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
+https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/Tw64Ufz.png", Golf 
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
@@ -460,8 +459,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sugustv.tk/iptv/get/mytv.php?id=105
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
-https://sunnytv.xyz/nflqows0khgzt7zperu8kmdjrx3/user=vip&pass=888@Aa/play.php?id=235&playlist.m3u
-#http://live.vthanh.net:8080/inthebox
+http://live.vthanh.net:8080/inthebox
 
 
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
