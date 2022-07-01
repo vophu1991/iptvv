@@ -456,9 +456,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sugustv.tk/iptv/get/mytv.php?id=105
+https://sugustvno1.tk/get/ott/mytivi.php?love=105
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png", In The Box
-http://live.vthanh.net:8080/inthebox
+http://103.170.123.169:9981/stream/channelid/44394501?
 
 
 #EXTINF:0 group-title="🥊ĐẤU VÕ ĐÀI🥊" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
