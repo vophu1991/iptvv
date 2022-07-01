@@ -454,6 +454,9 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png?v=1654725600", Woman 
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
+#EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="https://i.imgur.com/x5VGGGn.png",Man
+http://103.170.123.169:9981/stream/channelid/1166000545?
+
 #EXTINF:0 group-title="📺NƯỚC NGOÀI📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sugustvno1.tk/get/ott/mytivi.php?love=105
