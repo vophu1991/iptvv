@@ -472,21 +472,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/H7DvNXT.jpghttps://i.imgur.com/H7DvNXT.jpg",RMC 1
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/WTmNa6A.png",RMC 1
 http://gg.gg/Rmcsp1
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/8ztSugS.jpg",RMC 2
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/rfbG4FW.png",RMC 2
 http://gg.gg/Rmcsp2
-
-
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png",Now Sports 1
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/iproblock.php?id=200230
-
-
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/bb/96/e0/bb96e0f3-c799-d821-75a9-cfd08d58b0e4/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg",Tennis Channel
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/OKSMkQl.png",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/nxS6QQh.png",MU TV
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=21037
 
 
 
