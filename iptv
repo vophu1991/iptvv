@@ -48,8 +48,6 @@ https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/oIf669i.jpg",Bình Phước 2 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
-#EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/nBGYm6M.jpg",Bình Phước 3
-https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/v9vHsKf.jpg",trà vinh HD
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="📺KÊNH ĐỊA PHƯƠNG📺" tvg-logo="https://i.imgur.com/qhd8oBL.png",TRÀ VINH 2
