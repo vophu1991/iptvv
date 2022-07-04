@@ -115,8 +115,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/azaJALt.png",KÊNH THIẾT NHI CBeebies🎅
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/Sn2oB3t.jpg",KÊNH Tom và Jerry🎅
-http://zeintv.xyz:8080/live/jamel1/jamel2/60509.ts
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/VO03w9E.jpg",HTV3 HD🎅
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/RVvg40C.jpg",SCTV3 🎅
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s1/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🎅KÊNH THIẾU NHI🎅" tvg-logo="https://i.imgur.com/YakozOo.png",KÊNH THIẾT NHI Boomerang🎅
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 
