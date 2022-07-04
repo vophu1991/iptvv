@@ -226,12 +226,14 @@ https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/jHLwwLg.png", ON Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fa573d3f21c235509af3c4d68403a16e&key=998bc8d35f8cbbd643e87050f0adc355
-https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
+#https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab6.smil/manifest.mpd
+https://sugustvno1.tk/get/ott/tv36O.php?channels=239
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/J7ctydQ.jpg", ON Sports HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=390d644f09253a22a13313161332d273&key=e3ca222e947b2603650acb1047260158
-https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab3.smil/manifest.mpd
+#https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab3.smil/manifest.mpd
+https://sugustvno1.tk/get/ott/tv36O.php?channels=173
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🤩| VTVCAP" tvg-logo="https://i.imgur.com/d48js4C.jpg", ON Football HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
