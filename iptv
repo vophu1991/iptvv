@@ -482,8 +482,13 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/rt5eYh5.png",RMC 1
 http://gg.gg/Rmcsp1
-#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/9cbkZT2.png",RMC 2
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/9cbkZT2.png",RMC
 http://gg.gg/Rmcsp2
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/RCxZxe1.png",SKY SPORTS TOPEVENT
+http://vn360sport.duckdns.org:9981/stream/channelid/1489231084?auth=PedBIUJlLblhHheRz7vs5l58twh0
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/XsoWKkD.png",SKY SPORTS TENNIS
+http://vn360sport.duckdns.org:9981/stream/channelid/1573556841?auth=PedBIUJlLblhHheRz7vs5l58twh0
+
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/UrhF3uY.png",Ziggo Sports
 http://gg.gg/Ziggo1
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/lD3I0rw.png",Ziggo Golf
