@@ -497,6 +497,20 @@ http://vn360sport.duckdns.org:9981/stream/channelid/1201070165?auth=PedBIUJlLblh
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/YpS3QMc.png",BT sport 3
 http://vn360sport.duckdns.org:9981/stream/channelid/533199772?auth=PedBIUJlLblhHheRz7vs5l58twh0
 
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/AZozGMU.png",True Premier Football 1
+http://donglao.duckdns.org:9981/stream/channelid/905919890?auth=PedBIUJlLblhHheRz7vs5l58twh0
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/IwwjzG6.png",True Premier Football 2
+http://donglao.duckdns.org:9981/stream/channelid/1760792278?auth=PedBIUJlLblhHheRz7vs5l58twh0
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/mFo3bNL.png",True Premier Football 3
+http://donglao.duckdns.org:9981/stream/channelid/1363511520?auth=PedBIUJlLblhHheRz7vs5l58twh0
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/lQYHU2M.png",True Premier Football 4
+http://donglao.duckdns.org:9981/stream/channelid/112952872?auth=PedBIUJlLblhHheRz7vs5l58twh0
+#EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/rr7ynsY.png",True Premier Football 5
+http://donglao.duckdns.org:9981/stream/channelid/1275865673?auth=PedBIUJlLblhHheRz7vs5l58twh0
+
+
+
+
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/UrhF3uY.png",Ziggo Sports
 http://gg.gg/Ziggo1
 #EXTINF:0 group-title="⚽THỂ THAO NƯỚC NGOÀI⚽" tvg-logo="https://i.imgur.com/lD3I0rw.png",Ziggo Golf
